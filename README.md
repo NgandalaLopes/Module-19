@@ -8,7 +8,7 @@ The application is a text editor that runs in the browser. The app will be a sin
 
 The URL of the GitHub repository is https://github.com/NgandalaLopes/Module-19.git and the repository name is Module-19.
 
-🚀The application has been deployed to Heroku and the URL of the deployed application is:-
+The application has been deployed to Heroku and the URL of the deployed 🚀 application is:- https://ng-text-editor.herokuapp.com/
  
  
 
